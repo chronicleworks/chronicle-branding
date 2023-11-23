@@ -1,2 +1,3 @@
-# chronicle-branding
-Chronicle logos and marques
+# Chronicle Branding
+
+This repo contains the official Chronicle logos and marques.
